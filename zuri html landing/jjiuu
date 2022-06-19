@@ -1,0 +1,68 @@
+.he{
+    background-image: url(2.png);
+    
+}
+.nav{
+    display: ;
+    padding: 2% 6%;
+    justify-content: space-between;
+}
+.try{
+    
+    float: right;
+}
+.img1{
+    width: 100px;
+    height: 50px;
+}
+
+.img2{
+    width: 30%;
+    height: 250px;
+    position: relative;
+    left:60% ;
+}
+.content {
+    width: 1200px;
+    height: auto;
+    margin: 200px;
+    position: relative;
+}
+.huddle{
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top: -20px;
+    left: ;
+    border-radius: 10px;
+    padding: 25px;
+    margin: -90px;
+
+}
+.content2 {
+    width: 1200px;
+    height: auto;
+    margin: 200px;
+    position: relative;
+    background-image: url(w.PNG);
+    box-shadow: 120px 130px 80px ;
+    padding: 50px;
+    
+}
+.img3{
+    width: 30%;
+    height: 250px;
+    position: relative;
+    left: 60%;
+
+}
+.f{
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top: -20px;
+    left: ;
+    border-radius: 10px;
+    padding: 25px;
+    margin: -90px;
+}

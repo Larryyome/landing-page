@@ -1,0 +1,201 @@
+.fb{
+    width: 20px;
+}
+.tw{
+    width: 20px;
+}
+.ig{
+    width: 20px;
+}
+
+
+@media screen and (max-width:1440px) and (min-width:740px){
+    .he{
+        background-image: url(bg.png );
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+    .img1 {
+            width: 100px;
+    
+        }
+   .nav{
+        display: flex;
+        padding: 2% 6%;
+        justify-content: space-between;
+
+      }
+    .huddle{
+        float: left;
+        margin-top: 200px;
+        margin-left: 10%;
+    }
+    .img2{
+        width:70vh;
+       /* height: "";*/
+        margin-left: 60%;
+        margin-top:-20%;
+    }
+    .content2{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .img3{
+        width: 70vh;
+        margin-left: 57%;
+        margin-top: 5%;
+    }
+    .f{
+       /* float: left;*/
+        margin-top: -15%;
+        margin-left: 10%;
+    }.c2{
+        display: flex;
+        flex-direction: row;
+    }
+  .img4{
+      width: 70vh;
+      margin-top: 250px;
+      margin-left: 30%;
+  }
+    .cont2{
+      /*  float: right;
+        right: 20%;*/
+        margin-top: 21%;
+        margin-left: 30%;
+    }
+    .img5 {
+        width: 70vh;
+        margin-left: 60%;
+        margin-bottom: -40%;
+        
+        
+    }
+    
+    .cont {
+       margin: 30%;
+       margin-left: 10%;
+       margin-top: 20%;
+      /* margin-left: 10%;*/
+        
+    }
+    .sec{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .foot{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+
+    }
+    .i{
+        margin: 40px;;
+    }
+    .ab{
+        margin: 20px;
+       /* margin-right: 450px;*/
+
+    }
+    .hu2{
+        width: 170px;
+        margin-top: 220px;
+        margin-left: 40px;
+    }
+    .ca{
+        margin: 20px;
+        /*margin-right: 490px;*/
+    }
+    
+    .threeimg{
+        margin: 20px;
+        margin-right: 300px;
+        display: flex;
+        justify-content: space-around;
+        
+
+    }
+    .fb{
+        justify-content: space-around;
+        pad: 30px;
+    }
+    .tw{
+        justify-content: space-around;
+    }
+    .ig{
+        justify-content: space-between;
+        justify-content: space-around;
+    }
+    .block{
+        width: 600px;
+        margin: 0 auto 0 auto;
+        box-shadow: 0 1px 7px 4px var(--shadow--);
+        padding: 200px 0;
+        position: relative;
+        top: 180px;
+        z-index: 1;
+        background-color: white;
+        border-radius: 25px;
+    }
+    .ready{
+        margin-left: 200px;
+    }
+    .get{
+        margin-left: 260px;
+       /* background-color: brown;
+        border-radius: 5px;*/
+    }
+   
+
+}
+@media screen and (max-width:750px) and (min-width:375px){
+    .he{
+        background-image: url(bg-hero-mobile.png );
+        background-repeat:no-repeat;
+        background-size: cover;
+    } 
+    .img1 {
+        width: 10vh;
+    }
+        .nav {
+            display: flex;
+            padding: 2% 6%;
+            justify-content: space-between;
+        }
+        .huddle {
+            float: left;
+            margin-top: 70px;
+            /*margin-left: 10%*/
+            justify-content: center;
+            text-align: center;
+        }
+        .img2 {
+            width: 50vh;
+            
+           /* margin-left: 60%;*/
+            margin-top: 20%;
+        }
+        .img3 {
+            width: 100%;
+            /*margin-left: 60%;*/
+            margin-top: 17%;
+        }
+        .f {
+            /*float: left;*/
+            margin-top: 20%;
+            /*margin-left: 10%;*/
+        }
+        .img4 {
+            float: "";
+            width: 100%;
+            /*margin-right: 90%;*/
+            margin-top: 15%;
+        }
+        .img5{
+            width: 100%;
+        }
+}
